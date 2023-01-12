@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InventoryManager</string>
+    <string name="buy_items">Buy Items</string>
+    <string name="manage_inventory">Manage Inventory</string>
+</resources>
